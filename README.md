@@ -1,0 +1,2 @@
+# magang
+cuman repositoris magang
